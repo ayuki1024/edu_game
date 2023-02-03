@@ -1,0 +1,23 @@
+
+*** These modified files were found in JOE when it aborted on Fri Feb  3 16:35:39 2023
+*** JOE was aborted by UNIX signal 1
+
+*** File '/home/oem/Desktop/gitProjects/edu_game/.git/MERGE_MSG'
+:q
+:q
+Merge branch 'master' of github.com:ayuki1024/edu_game
+# Please enter a commit message to explain why this merge is necessary,
+# especially if it merges an updated upstream into a topic branch.
+#
+# Lines starting with '#' will be ignored, and an empty message aborts
+# the commit.
+
+*** File '(Unnamed)'
+/home/oem/Desktop/game_cntsort/edu_game/.git/COMMIT_EDITMSG
+/home/oem/Desktop/gitProjects/edu_game/.git/MERGE_MSG
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
