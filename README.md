@@ -1,5 +1,5 @@
-# edu_game
-some interesting web to learn algorithm
+# 小游戏
+
 
 顺序查找游戏：https://ayuki1024.github.io/edu_game/shunxuchazhao/
 
