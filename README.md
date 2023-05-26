@@ -23,4 +23,4 @@
 [<kbd><img decoding="async" src="images/prime.png" height="200px"/></kbd>](https://ayuki1024.github.io/edu_game/07prime)
 
 #### Unit11 冒泡排序:           [冒泡排序](https://ayuki1024.github.io/L2_ebook/L2%E7%AC%AC7%E8%AF%BE%E7%AD%9B%E6%B3%95%E6%B1%82%E7%B4%A0%E6%95%B0/%E7%AD%9B%E6%B3%95%E6%B1%82%E7%B4%A0%E6%95%B0.html)
-[<kbd><img decoding="async" src="images/prime.png" height="200px"/></kbd>](https://ayuki1024.github.io/edu_game/11 bubblesort)
+[<kbd><img decoding="async" src="images/prime.png" height="200px"/></kbd>](https://ayuki1024.github.io/edu_game/11%20bubblesort/)
